@@ -1,2 +1,2 @@
 # Sprint-13-assignments
-This repository contains the assignments of the thirteen (13th) sprint.
+This repository contains the assignments of the thirteenth (13th) sprint.
