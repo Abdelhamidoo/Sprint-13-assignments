@@ -1,0 +1,23 @@
+{
+  "name": "sprint-13-assignments",
+  "version": "1.0.0",
+  "description": "This repository contains the assignments of the thirteen (13th) sprint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelhamidoo/Sprint-13-assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelhamidoo/Sprint-13-assignments/issues"
+  },
+  "homepage": "https://github.com/Abdelhamidoo/Sprint-13-assignments#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
